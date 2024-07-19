@@ -1,0 +1,8 @@
+#https://api.openweathermap.org/data/2.5/weather?q=kandy&appid=2cc5277f8552cabc98443f7b96343453
+
+#https://api.openweathermap.org/data/2.5/weather?q=Hapugala&appid=2cc5277f8552cabc98443f7b96343453
+
+
+#https://api.openweathermap.org/data/2.5/weather?zip=80042,Lk&appid=2cc5277f8552cabc98443f7b96343453
+
+https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid=2cc5277f8552cabc98443f7b96343453
